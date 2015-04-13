@@ -1,0 +1,24 @@
+{
+  "name": "node-uap",
+  "version": "0.0.1",
+  "description": "Wrapper around ua-parser/uap-core and ua-parser/uap-ref-impl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedot/node-uap.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fedot/node-uap/issues"
+  },
+  "homepage": "https://github.com/fedot/node-uap",
+  "dependencies": {
+    "uap-core": "git://github.com/ua-parser/uap-core#88eabe59a3ec0f67f8d2bd2f92edcfc7042ce9b6",
+    "uap-ref-impl": "0.2.0",
+    "yamlparser": "0.0.2"
+  }
+}
