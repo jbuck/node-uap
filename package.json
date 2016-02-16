@@ -1,6 +1,6 @@
 {
   "name": "node-uap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapper around ua-parser/uap-core and ua-parser/uap-ref-impl",
   "main": "index.js",
   "scripts": {
